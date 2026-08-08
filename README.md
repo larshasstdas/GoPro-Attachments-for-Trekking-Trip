@@ -2,9 +2,15 @@
 This project is about an attachement for my backpack so i can mount my GoPro to the shoulder strap as well as a GoPro attachement to bind it to something (e.g. a tree). GoPro gear is expensive and from the few parts i have i want to reverse engineer the connection part for the mounting clip. 
 <img width="1428" height="633" alt="Screenshot 2026-08-08 162526" src="https://github.com/user-attachments/assets/526b3a17-9662-4e81-9950-cff6b306ecf6" />
 
-## Materials
+## Bill of Materials
 
-Both are printed with PLA but other materials would probably be more suitable. Furthermore you will need a 3mm rope for the attachement with a rope.
+The mounts are 3D-printed in PLA (STL files in the repo), so their cost is filament. The cord is only used for the attachement with a rope to bind it to something.
+
+| Part                          | Description                                   | Qty | Price   | Link |
+| ----------------------------- | --------------------------------------------- | --- | ------- | ---- |
+| 3D-printed GoPro attachments  | PLA                                           | 1   | €0.75   | – |
+| Accessory cord 3mm 10m orange | Rope for the attachment needing a rope        | 1   | €5.99   | [Decathlon](https://www.decathlon.de/p/reepschnur-3-mm-10-m-orange/130405/c126m8174619) |
+| **Total**                     |                                               |     | **€6.74** | |
 
 ## Printing
 
